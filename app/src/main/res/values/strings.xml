@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GooglePlus_Inegration</string>
+    <string name="signed_in_fmt">Sign in As</string>
+</resources>
